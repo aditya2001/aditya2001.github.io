@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Email-aditya.200187@gmail.com</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Aditya</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET)</h2>
 
@@ -46,7 +46,7 @@ coverage </b>
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
-- Generating access token programmaticaly for oauth2.0 for automation purpose  <a href="https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s"></a>
+- Generating access token programmaticaly for oauth2.0 for automation purpose <a href="https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s">https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s</a> 
 
 
 
