@@ -18,7 +18,7 @@
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ISTQB.png" alt="Aditya | ISTQB" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -63,16 +63,16 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=aditya2001)](https://github.com/aditya2001)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya2001)](https://github.com/aditya2001)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:aditya.200187@gmail.com">aditya.200187@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Aditya-Choudhary-78771622//">
-    <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/linkedin.svg" alt="Aditya Choudhary | LinkedIn" width="21px"/>
   </a>
 </p>
   
