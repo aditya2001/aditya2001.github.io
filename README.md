@@ -1,3 +1,6 @@
+<h1>
+  <a href="https://aditya2001.github.io"/>Aditya Choudhary>
+</h1>  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-choudhary-78771622/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/banner.png" alt="My banner">
