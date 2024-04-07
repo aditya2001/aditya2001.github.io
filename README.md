@@ -35,18 +35,18 @@
 
 ## 🥇 Achievements
 
--Created Cypress Automation Framework from Scratch which gave
+- Created Cypress Automation Framework from Scratch which gave
 <b>20% improvement in overall software stability and performance</b>
 
--Guided and trained 5 Junior QA team members on test automation best practices,
+- Guided and trained 5 Junior QA team members on test automation best practices,
 resulting in a  <b>40% decrease in test execution time and a 25% increase in test
 coverage </b>
 
--Engineered automation scripts using Selenium and Java to increase testing
+- Engineered automation scripts using Selenium and Java to increase testing
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
--Generating access token programmaticaly for oauth2.0 for automation purpose<b>https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s</b>
+- Generating access token programmaticaly for oauth2.0 for automation purpose<b>https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s</b>
 
 
 
