@@ -19,7 +19,7 @@
 ## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ISTQB.png" alt="Aditya | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ncfm.jpg" alt="Aditya | NCFM" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ncfm.jpg" alt="Aditya | NCFM" width="200 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
