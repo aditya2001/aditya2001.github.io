@@ -19,6 +19,7 @@
 ## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ISTQB.png" alt="Aditya | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/ncfm.jpg" alt="Aditya | NCFM" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -56,7 +57,6 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white" alt="JMeter">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
