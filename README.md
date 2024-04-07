@@ -46,6 +46,8 @@ coverage </b>
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
+-Generating access token programmaticaly for oauth2.0 for automation purpose<b>https://www.youtube.com/watch?v=6c0r6fd0uso&t=444s</b>
+
 
 
 ## 💼 Technical Skills
