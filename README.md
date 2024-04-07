@@ -11,7 +11,7 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/Aditya-Choudhary-78771622//">
     <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/linkedin.svg" alt="Aditya Choudhary | LinkedIn" width="21px"/>
   </a>
 </p>
@@ -24,12 +24,8 @@
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
 ## 🔭 I'm currently working on
-
-- Microservices Testing Automation Framework
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-- Postman Newman Automated Test 
-<p align="center">    
-<img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+- Working on Cypress Automation Framework and integrating with Jenkins
 
 ## 🌱 I'm currently learning
 
@@ -38,8 +34,7 @@
 
 ## 🥇 Achievements
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
+-Created Cypress Automation Framework from Scratch which gave
 <b>20% improvement in overall software stability and performance</b>
 
 -Guided and trained 5 Junior QA team members on test automation best practices,
@@ -50,17 +45,6 @@ coverage </b>
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
-
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
-
-## 💻 My Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aditya2001&repo=AutomationFramework)](https://github.com/aditya2001/AutomationFramework)
-
-[Automated Regression Testing Framework Java](https://github.com/aditya2001/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-[Automated Regression Testing Framework Python](https://github.com/aditya2001/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
@@ -87,7 +71,7 @@ in test coverage</b>
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/Aditya-Choudhary-78771622//">
     <img src="https://raw.githubusercontent.com/aditya2001/aditya2001.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
 </p>
