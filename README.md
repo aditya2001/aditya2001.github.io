@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://aditya2001.github.io/">aditya2001</a>
+    <a href="https://aditya2001.github.io/">Aditya Choudhary</a>
 </h1>  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-choudhary-78771622/" target="_blank" rel="noreferrer">
